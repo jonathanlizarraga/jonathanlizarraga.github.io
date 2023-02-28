@@ -1,0 +1,99 @@
+
+/** comando para armar cuadro**/
+
+h1 {
+  border-style: double;
+  border-width: 10px;
+
+}
+
+/** comando para centrar**/
+
+h1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+
+}
+
+/**comando para centrar imagen **/
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%
+}
+
+
+li {
+    font-weight: bolder;
+    color: rgba(0, 0, 0, 0.822)
+}
+
+
+
+body {
+    background-color: #4fc097ea;
+  }
+
+
+ul.a {
+    list-style-type: circle;
+  }
+
+ul.c {
+    list-style-type: square;
+  }
+
+legend {
+    background-color: rgb(100, 41, 167);
+    color: rgb(17, 16, 16);
+    padding: 5px 10px;}
+
+
+fieldset {
+        background-color: #884fad;
+    
+      } 
+
+      
+
+h2 {
+        font-weight:bolder;
+        color :rgb(199, 35, 35)
+      
+    }
+          
+
+h2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%
+    }
+
+    .myDiv {
+      border: 10px outset red;
+      background-color: rgb(230, 173, 173);    
+      text-align: center;
+    }
+/** DAR FORMA A TABLA */
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 50%;
+    }
+
+/** BORDES TABLA*/    
+    td, th {
+      border: 5px solid #0e0d0d;
+      text-align: left;
+      padding: 1px;
+    }
+
+
+
+    
+
